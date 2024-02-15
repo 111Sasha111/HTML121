@@ -1,0 +1,42 @@
+div
+{
+background-color:red;
+border-width:1px;
+border-style:solid;
+}
+
+p
+{
+background-color:pink;
+margin-left:500px;
+margin-right:500px;
+margin-top:400px;
+margin-bottom:450px;
+}
+
+.column1 {
+float:left;
+background-color:red;
+border-width:2px;
+border-style:solid;
+height:400px;
+width:300;
+}
+
+.column2 {
+float:left;
+background-color:pink;
+border-width:2px;
+border-style:solid;
+height:400px;
+width:300;
+}
+
+.column3 {
+float:left;
+background-color:blue;
+border-width:2px;
+border-style:solid;
+height:400px;
+width:300;
+}
